@@ -104,7 +104,7 @@ specifically tailored to the requirements of Symfony.
 Common Post-Deployment Tasks
 ----------------------------
 
-After deploying your actual source code, there are a number of common things
+Before and after deploying your actual source code, there are a number of common things
 you'll need to do:
 
 A) Check Requirements
